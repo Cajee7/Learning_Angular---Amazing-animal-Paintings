@@ -1,3 +1,5 @@
+#This is me learning Angular and completing an angular course
+
 # AmazingAnimalPaintings
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
